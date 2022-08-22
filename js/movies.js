@@ -146,7 +146,7 @@ var myArray = [{
         'date': '2022-10-1',
         'status': '🥺'
     }, {
-        'img': 'https://drive.google.com/uc?export=view&id=1Tff4kpC21_ozoDeLivA_nq5WfEAcjkFK',
+        'img': 'https://drive.google.com/uc?export=view&id=17E-PI_JCdShifZsht1qSYoowbAXnbJ4l',
         'title': 'Viajar Transilvanía',
         'date': '2025-01-01',
         'status': '🥺'
